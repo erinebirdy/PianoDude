@@ -2,9 +2,9 @@
 
 Hackathon: February 2020
 
-Java
+Java, Swing GUI Java
 
-Musical ear training game made in 24 hour hackathon
+Musical ear training game made in 24 hour hackathon on a team of 4.
 
 User hears a sequence of randomized notes and attempts to replicate them by playing the piano on the keyboard.
 
